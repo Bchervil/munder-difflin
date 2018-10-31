@@ -1,0 +1,133 @@
+.nav-bar {
+  overflow: hidden;
+  color: orange;
+  top: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #B2A792;
+  position:fixed;
+
+}
+
+
+.nav-bar li{
+  display: inline-block;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  padding:20px;
+  font-size: 25px;
+
+}
+.nav-bar li a:hover{
+color:white;
+
+}
+.logo{
+  padding-top:5%;
+
+}
+
+a {
+  text-decoration: none;
+}
+
+ .hidden{
+   opacity: 0;
+ }
+
+body {
+  line-height: 24px;
+  font-size: 14px;
+  font-weight: 300;
+  color: #444;
+  font-family: sans-serif;
+  background-color: #f0f0f0;
+  margin: 0%;
+  width: 95vw;
+  border:0;
+  text-align: center;
+
+}
+
+.grid-container {
+display: grid;
+grid-template: 350px / auto auto auto;
+grid-gap: 2px;
+padding:10px;
+}
+
+#header {
+align-content: center;
+}
+
+img {
+  width: 95%;
+    height: auto;
+}
+
+.grid2 {
+display: grid;
+grid-template: 400px/ auto auto;
+grid-gap:2px:
+}
+
+textarea {
+      width: 50%;
+      height: 100px;
+      padding: 12px 20px;
+      box-sizing: border-box;
+      border: 2px solid orange;
+      border-radius: 4px;
+      background-color: turquoise;
+      font-size: 20px;
+      resize: none;
+}
+
+  input {
+      width: 40%;
+      padding: 12px 20px;
+      margin: 8px 0;
+      background-color: turquoise
+      border: 2px solid orange;
+      outline: none;
+  }
+#btn{
+background-color:turquoise;
+width: 100px;
+height:50px;
+content
+}
+
+
+a:visited{
+  color: orange;
+
+}
+
+h2 {
+text-align: center;
+font-family: fantasy;
+color:orange;
+
+}
+h1{
+  text-align: center;
+  font-size: 6.4em;
+  padding-bottom: 40px;
+
+}
+.ncenter{
+margin: 10%;
+
+}
+h3{
+  text-align: center;
+  font-family: fantasy;
+}
+
+.message{ padding:10px;
+
+}
+#portfolio{
