@@ -1,1 +1,3 @@
-A fictional paper company created for my first assignment using my knowledge of HTML, CSS and javascript.
+A fictional paper company created demonstrated my knowledge of HTML, CSS and javascript.
+
+https://bchervil.github.io/munder-difflin/
